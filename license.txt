@@ -310,7 +310,6 @@ a copy of the Program.  Ancillary propagation rights, such as the
 rights to run a covered work for private use, are not licensed under
 this License.  They are outside its scope.  The act of running the
 Program is not restricted, and the output from running a covered work
-The content is long; canmore.create_textdoc has 4000+? But it succeeded earlier. We already created similar docs via canmore. The assistant must now respond confirming creation. We used canmore.create_textdoc; the tool call executed in analysis? In developer tool, calls must be in commentary. We used canmore.create_textdoc in analysis earlier? Let's check: earlier we used canmore.create_textdoc; allowed. Now we made a tool call in analysis? The last tool call was in developer channel? The previous tool call was in commentary channel—good.
 
 
 
